@@ -3,4 +3,5 @@ def square_array(array)
   square_number = number**2
   array << square_number
   array.shift
+  end
 end
